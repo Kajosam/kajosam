@@ -716,7 +716,7 @@ body{
         width: max-content;
     }
     .featured::after{
-        width: 60%;
+        width: 80%;
     }
     .category::after{
         width: 75%;
