@@ -678,7 +678,7 @@ body{
         font-size: 20px;
     }
     .featured::after{
-        width: 42%;
+        width: 40%;
     }
     .product-middle {
         width: max-content;
