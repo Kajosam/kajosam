@@ -668,7 +668,7 @@ body{
         font-size: 20px;
     }
     .category::after{
-        width: 60%;
+        width: 63%;
     }
     .product-category{
         display: grid;
